@@ -1,14 +1,15 @@
 # Amy-1.0-mod-library-
 A technical library of 130+ plastic-free mods for the Amy 1.0 system.
-Modq 01: Transition to Black Ceramic Media
-​Date: 2026-02-10
+Date 02/11/2026
 
-​Overview
+Mod 01: Specialized Black Graphite Pans
 
-​I have officially changed the conerical trays to black ceramic pans. This transition is a key part of my mission to not add plastic to the sea salt drying process.
+​Status: Upgraded & Implemented
 
-​Benefits
+​Engineering Use: Replaces all previous evaporation media (conical/ceramic).
 
-​Purity: Eliminates risk of polymer leaching into the final product.
-​Heat: The black ceramic surface improves solar heat absorption.
-​Durability: Better suited for high-salinity environments than plastic.
+​Technical Detail:
+ Utilizes specialized black graphite for superior thermal conductivity and solar absorption.
+
+​Purity: 
+100% plastic-free to eliminate microplastic leaching and maintain total salt purity.
