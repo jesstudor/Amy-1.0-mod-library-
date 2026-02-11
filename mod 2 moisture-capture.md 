@@ -1,13 +1,14 @@
 Mod 02: Angled Moisture Capture System
+
 ​Status: Implemented
+​Engineering Use
+​High-efficiency passive condensation management.
 
-​Overview
+​Technical Detail
+​The window is set at a calculated angle to direct condensation toward the drainage point. This ensures moisture flows away from the salt.
 
-​This mod uses a specific window angle to capture and redirect moisture during the sea salt evaporation process.
-​Technical Features
+​Safety
 
-​Window Angle: The angle is engineered for moisture capture to ensure condensation flows to the collection point.
-
-​Drain Tap: Includes a dedicated drain tap at the lowest point for easy removal of captured liquid.
+​Prevents "rain-back" (condensation falling back into the salt), ensuring the drying process is never interrupted.
 
 ​Plastic-Free Goal: The entire capture path is designed to avoid any polymer contact, keeping the salt 100% plastic-free.
